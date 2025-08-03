@@ -14,7 +14,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <Package className="h-16 w-16 mx-auto text-primary mb-6" />
             <h1 className="text-5xl font-bold mb-6 text-balance">
-              Handloom Connect
+              WeaveLink
             </h1>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto text-balance">
               Connecting traditional Indian handloom weavers with buyers worldwide. 
